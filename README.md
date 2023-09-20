@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋🏻, I'm Manan Purohit </br> 
 </h1>
 <p align="center"> Aspiring Data Scientist ⚡</p>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 # 💫 About :
 🔭 I’m Currently Working on Data Analytics and Data Sciences Projects<br><br>👨‍💻 All of my projects are available at https://github.com/Mananpurohit1<br><br>🌱 I’m currently learning Machine Learning and R<br><br>💬 Ask me about SQL , Pandas , Numpy , Matplotlib , Seaborn and Plotly <br><br>📫 How to reach me Mananpurohit.work@gmail.com
 
